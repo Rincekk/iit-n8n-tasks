@@ -4,3 +4,6 @@
 <img width="1881" height="1036" alt="image" src="https://github.com/user-attachments/assets/78d9c783-079e-4978-a8a1-f513e8c72df1" />
 <img width="1876" height="802" alt="image" src="https://github.com/user-attachments/assets/350aa008-76f6-46d2-b60a-ab75f2de2ec3" />
 <img width="1842" height="1035" alt="image" src="https://github.com/user-attachments/assets/e0b26e5e-6080-424e-bbbb-2492c6ddd1fe" />
+
+I am having trouble with write to file. It shows that file is nor wrtiable.
+<img width="1912" height="1058" alt="image" src="https://github.com/user-attachments/assets/5a1969f6-d43c-4408-ab84-0c956704b719" />
