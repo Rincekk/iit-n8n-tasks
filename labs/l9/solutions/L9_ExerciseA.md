@@ -1,3 +1,8 @@
+I set up codespace, installed n8n, started it. In n8n I followed the instructions to create a simple program that displays a message.
+
+<img width="1904" height="1048" alt="image" src="https://github.com/user-attachments/assets/ca6fc915-22e5-4dae-a48b-05e9b7a272ff" />
+
+
 <img width="1789" height="816" alt="image" src="https://github.com/user-attachments/assets/5ff2c4e2-8423-4830-94d1-355ed936fecc" />
 
 <img width="1803" height="1002" alt="image" src="https://github.com/user-attachments/assets/866837cd-4b97-4848-bdad-6ffcf805d2d3" />
